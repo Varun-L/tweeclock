@@ -9,8 +9,8 @@ const readline = require('readline').createInterface({
   output: process.stdout
 });
 
-const api_key = "wMzWxNpfPBk3aGis4ilgiwoIX"
-const api_key_secret = "cj46ddgy9RP1VJ3NQWFliVDEgc0Oy0OocpdrBBcg1pG9LqSeCW"
+const api_key = ""
+const api_key_secret = ""
 // The code below sets the consumer key and consumer secret from your environment variables
 // To set environment variables on macOS or Linux, run the export commands below from the terminal:
 // export CONSUMER_KEY='YOUR-KEY'

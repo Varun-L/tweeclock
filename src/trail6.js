@@ -1,8 +1,8 @@
 const axios = require('axios');
 
 // Replace these values with your Twitter API keys
-const api_key = "nBtJ7wxkRYvFS4QEEGBodN52p"
-const api_key_secret = "ZI60NPHbBJgUSJPht9olQT36NtAtTo9FmdimsAG8MRcXLcOjNW"
+const api_key = ""
+const api_key_secret = ""
 const apiKey = api_key;
 const apiSecret = api_key_secret;
 
